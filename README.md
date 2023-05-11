@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pasindu serasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu serasinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasindu-serasinghe-0090a2216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu serasinghe" height="30" width="40" /></a>
 <a href="https://fb.com/pasindu serasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu serasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/serasin.ghe_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serasin.ghe_37" height="30" width="40" /></a>
 </p>
